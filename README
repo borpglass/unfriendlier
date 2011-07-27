@@ -1,0 +1,7 @@
+This is a readme file for my first git repository, which is a basic formatting stripper.
+
+Here's the description I have already posted on git:
+
+Turns human-friendly database report text back into machine-readable columns by removing page headers. 
+Probably redundant to someone else's (better) project -- I just made this for a very specific purpose.
+
